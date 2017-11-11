@@ -1,7 +1,7 @@
 # Getting-and-Cleaning-Data
 Project Assignment
 
-The objective is to for the learners to practice cleaning a data set that is ready to use for an analysis.
+The objective is for the learners to practice cleaning a data set that is ready to use for an analysis.
 
 Below are the files uploaded in this repository:
 
